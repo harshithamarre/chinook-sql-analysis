@@ -141,7 +141,7 @@ Top Selling Tracks
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chinook-sql-analysis.git
+git clone https://github.com/harshithamarre/chinook-sql-analysis.git
 ```
 
 ### 2. Navigate to the project
@@ -167,7 +167,7 @@ jupyter notebook
 Open:
 
 ```
-notebooks/Chinook_Analysis.ipynb
+Notebooks/Chinook_Analysis.ipynb
 ```
 
 Run all cells to reproduce the analysis.
@@ -189,9 +189,7 @@ chinook-sql-analysis/
 │   ├── top_tracks.png
 │   └── country_revenue.png
 │
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── README.md
 ```
 
 ## 📚 Learning Outcomes
