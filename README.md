@@ -194,34 +194,6 @@ chinook-sql-analysis/
 └── .gitignore
 ```
 
----
-
-## 📸 Screenshots
-
-### Database Schema
-
-```
-images/schema.png
-```
-
----
-
-### Top Selling Tracks
-
-```
-images/top_tracks.png
-```
-
----
-
-### Revenue by Country
-
-```
-images/country_revenue.png
-```
-
----
-
 ## 📚 Learning Outcomes
 
 Through this project, I gained experience in:
