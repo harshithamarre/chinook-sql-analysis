@@ -180,7 +180,7 @@ Run all cells to reproduce the analysis.
 chinook-sql-analysis/
 │
 ├── data/
-│   └── Chinook.db
+│   └── Chinook_Sqlite.sqlite
 │
 ├── notebooks/
 │   └── Chinook_Analysis.ipynb
